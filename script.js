@@ -53,6 +53,34 @@ function paint (eventoDeOrigem){
         }
 }
 
+function clean (){
+    td1.style.backgroundColor = "white"
+    td2.style.backgroundColor = "white"
+    td3.style.backgroundColor = "white"
+    td4.style.backgroundColor = "white"
+    td5.style.backgroundColor = "white"
+    td6.style.backgroundColor = "white"
+    td7.style.backgroundColor = "white"
+    td8.style.backgroundColor = "white"
+    td9.style.backgroundColor = "white"
+    td10.style.backgroundColor = "white"
+    td11.style.backgroundColor = "white"
+    td12.style.backgroundColor = "white"
+    td13.style.backgroundColor = "white"
+    td14.style.backgroundColor = "white"
+    td15.style.backgroundColor = "white"
+    td16.style.backgroundColor = "white"
+    td17.style.backgroundColor = "white"
+    td18.style.backgroundColor = "white"
+    td19.style.backgroundColor = "white"
+    td20.style.backgroundColor = "white"
+    td21.style.backgroundColor = "white"
+    td22.style.backgroundColor = "white"
+    td23.style.backgroundColor = "white"
+    td24.style.backgroundColor = "white"
+    td25.style.backgroundColor = "white"
+}
+
 window.onload = function (){
     black.classList.add("selected")
 }
